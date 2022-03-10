@@ -1,4 +1,13 @@
 
+body{
+    background-color:white;
+    color:black 
+ }
+ .mydark{
+    background-color:black;
+    color:white,gray  
+ }
+
 .header{
     padding:2rem 9%;
     position: fixed;
